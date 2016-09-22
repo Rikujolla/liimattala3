@@ -1,3 +1,21 @@
 Simulaation rakentaminen
 
 1. Haetaan kartta www.openstreetmap.org exporttaamalla map.osm
+
+2. Tehdään map.osm:stä network
+
+Ohje http://sumo.dlr.de/wiki/Networks/Import/OpenStreetMap
+
+netconvert --osm-files map.osm -o liimattala.net.xml
+
+3. Tehdään routetiedosto
+
+
+4. Tehdään simulointitiedosto
+
+5. Tehdään settings-tiedosto
+
+
+
+
+

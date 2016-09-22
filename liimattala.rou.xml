@@ -1,0 +1,30 @@
+<routes>
+    <vType accel="1.0" decel="5.0" id="Car" length="5.0" maxSpeed="40.0" sigma="0.0" />
+    <route id="Etelasta_alueelle" edges="33972928#1 58659227#0 58659227#1 58659223 209879294 209879293 209879298 209879295#0 209879295#1 209879295#2 209879295#3 209990435 58659236 209990442#0"/>
+    <route id="Pohjoisesta _alueelle" edges="-210355653#0 -215406897 210355657 -210355645"/>
+    <vehicle depart="0" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh1" route="Pohjoisesta _alueelle" type="Car" />
+
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+    <vehicle depart="1" id="veh0" route="Etelasta_alueelle" type="Car" />
+
+</routes>
