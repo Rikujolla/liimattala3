@@ -1,0 +1,157 @@
+<!-- Adding next data to osm-file -->
+
+ <way id="9990001" visible="true">
+  <nd ref="4428410451"/>
+  <nd ref="99990000"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990002" visible="true">
+  <nd ref="99990000"/>
+  <nd ref="99990001"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990003" visible="true">
+  <nd ref="99990001"/>
+  <nd ref="99990002"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990004" visible="true">
+  <nd ref="99990002"/>
+  <nd ref="99990004"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990005" visible="true">
+  <nd ref="99990004"/>
+  <nd ref="99990003"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990006" visible="true">
+  <nd ref="99990003"/>
+  <nd ref="99990005"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990007" visible="true">
+  <nd ref="99990005"/>
+  <nd ref="99990006"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990008" visible="true">
+  <nd ref="99990006"/>
+  <nd ref="99990008"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990009" visible="true">
+  <nd ref="99990008"/>
+  <nd ref="99990007"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990010" visible="true">
+  <nd ref="99990007"/>
+  <nd ref="99990009"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990011" visible="true">
+  <nd ref="99990009"/>
+  <nd ref="99990010"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990012" visible="true">
+  <nd ref="99990010"/>
+  <nd ref="99990012"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990013" visible="true">
+  <nd ref="99990012"/>
+  <nd ref="99990011"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990014" visible="true">
+  <nd ref="99990011"/>
+  <nd ref="99990013"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990015" visible="true">
+  <nd ref="99990013"/>
+  <nd ref="99990014"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+
+ <node id="99990000" lat="62.73600000" lon="25.7840000"/>
+ <node id="99990001" lat="62.73620000" lon="25.7840000"/>
+ <node id="99990002" lat="62.73670000" lon="25.7890000"/>
+ <node id="99990003" lat="62.7364000" lon="25.7840000"/>
+ <node id="99990004" lat="62.73690000" lon="25.7890000"/>
+ <node id="99990005" lat="62.7366000" lon="25.7840000"/>
+ <node id="99990006" lat="62.73710000" lon="25.7890000"/>
+ <node id="99990007" lat="62.7368000" lon="25.7840000"/>
+ <node id="99990008" lat="62.73730000" lon="25.7890000"/>
+ <node id="99990009" lat="62.7370000" lon="25.7840000"/>
+ <node id="99990010" lat="62.73750000" lon="25.7890000"/>
+ <node id="99990011" lat="62.7372000" lon="25.7840000"/>
+ <node id="99990012" lat="62.73770000" lon="25.7890000"/>
+ <node id="99990013" lat="62.7374000" lon="25.7840000"/>
+ <node id="99990014" lat="62.7379000" lon="25.7890000"/>
+<!-- END adding next data to osm-file -->
+
+
+

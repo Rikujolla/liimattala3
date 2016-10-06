@@ -15,7 +15,55 @@ netconvert --osm-files map.osm -o liimattala.net.xml
 
 5. Tehdään settings-tiedosto
 
+ <way id="445409754" visible="true" version="1" changeset="42595355" timestamp="2016-10-03T03:45:12Z" user="rla_88" uid="3346365">
+  <nd ref="4417906360"/>
+  <nd ref="4428410451"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="10"/>
+  <tag k="maxspeed" v="20"/>
+  <tag k="surface" v="gravel"/>
+ </way>
+ <node id="4428410451" visible="true" version="1" changeset="42595355" timestamp="2016-10-03T03:45:12Z" user="rla_88" uid="3346365" lat="62.7359000" lon="25.7857617"/>
+ <node id="279697942" visible="true" version="2" changeset="15361293" timestamp="2013-03-14T11:24:42Z" user="Pikari" uid="137246" lat="62.7366722" lon="25.7904658"/>
 
+ <node id="4428410451" visible="true" version="1" changeset="42595355" timestamp="2016-10-03T03:45:12Z" user="rla_88" uid="3346365" lat="62.7380000" lon="25.7840000"/>
+
+<!-- Adding next data to osm-file -->
+
+ <way id="9990001" visible="true">
+  <nd ref="4428410451"/>
+  <nd ref="99990000"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+ <way id="9990002" visible="true">
+  <nd ref="99990000"/>
+  <nd ref="99990001"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="width" v="6,5"/>
+ </way>
+
+ <node id="99990000" lat="62.73600000" lon="25.7840000"/>
+ <node id="99990001" lat="62.73620000" lon="25.7840000"/>
+ <node id="99990002" lat="62.73670000" lon="25.7890000"/>
+ <node id="99990003" lat="62.7364000" lon="25.7840000"/>
+ <node id="99990004" lat="62.73690000" lon="25.7890000"/>
+ <node id="99990005" lat="62.7366000" lon="25.7840000"/>
+ <node id="99990006" lat="62.73710000" lon="25.7890000"/>
+ <node id="99990007" lat="62.7368000" lon="25.7840000"/>
+ <node id="99990008" lat="62.73730000" lon="25.7890000"/>
+ <node id="99990009" lat="62.7370000" lon="25.7840000"/>
+ <node id="99990010" lat="62.73750000" lon="25.7890000"/>
+ <node id="99990011" lat="62.7372000" lon="25.7840000"/>
+ <node id="99990012" lat="62.73770000" lon="25.7890000"/>
+ <node id="99990013" lat="62.7380000" lon="25.7840000"/>
+<!-- END adding next data to osm-file -->
 
 
 
